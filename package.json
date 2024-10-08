@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 "name": "nodejs-sample-app",
 "version": "1.0.0",
 "description": "A simple Node.js app for Jenkins CI/CD example",
@@ -15,7 +14,6 @@
 "mocha": "⁹.1.0",
 "supertest": "⁶.1.6"
 }
-=======
   "name": "nodejs-sample-app",
   "version": "1.0.0",
   "description": "A sample Node.js app",
@@ -32,5 +30,4 @@
     "chai": "^4.3.4"
   },
   "keywords": []
->>>>>>> 7a0a355 (Modified index.js)
 }
