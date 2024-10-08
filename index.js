@@ -1,4 +1,8 @@
 // index.js
+<<<<<<< HEAD
+=======
+// this is just a comment to push this file to github
+>>>>>>> 7a0a355 (Modified index.js)
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;

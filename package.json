@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 "name": "nodejs-sample-app",
 "version": "1.0.0",
 "description": "A simple Node.js app for Jenkins CI/CD example",
@@ -14,4 +15,22 @@
 "mocha": "⁹.1.0",
 "supertest": "⁶.1.6"
 }
+=======
+  "name": "nodejs-sample-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test":"mocha"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "chai": "^4.3.4"
+  },
+  "keywords": []
+>>>>>>> 7a0a355 (Modified index.js)
 }
